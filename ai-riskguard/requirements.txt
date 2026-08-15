@@ -1,0 +1,18 @@
+fastapi>=0.115.0
+uvicorn[standard]>=0.30.0
+sqlalchemy>=2.0.0
+pydantic>=2.0.0
+pydantic-settings>=2.0.0
+httpx>=0.27.0
+python-dotenv>=1.0.0
+
+# Research & Evidence Layer (Step 3)
+ddgs>=9.0.0
+beautifulsoup4>=4.12.0
+lxml>=5.0.0
+requests>=2.31.0
+scikit-learn>=1.3.0
+
+# Testing
+pytest>=7.4.0
+pytest-asyncio>=0.23.0
